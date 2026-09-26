@@ -1,2 +1,2 @@
-# alminchawi
-https://samleweb.com/
+sam alminshawi
+https://github.com/samirlle/alminchawi.git
